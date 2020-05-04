@@ -1,0 +1,1 @@
+gcc -o packer main.c  handle_dyld_info_command.c  handle_linkedit_data_command.c  handle_symtab_command.c print_functions.c handle_dysymtab_command.c remap_string_table.c format.c handle_segment_64.c merge_sort_list.c
